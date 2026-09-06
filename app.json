@@ -1,0 +1,31 @@
+{
+  "name": "SimpleJack 21",
+  "alternateName": "SimpleJack",
+  "storeName": {
+    "ios": "SimpleJack 21: Blackjack Game",
+    "android": "SimpleJack"
+  },
+  "developer": {
+    "name": "First Point",
+    "legalName": "First Point Yazılım Limited Şirketi",
+    "url": "https://firstpoint.com.tr",
+    "wikidata": "Q141016074",
+    "github": "https://github.com/First-Point"
+  },
+  "wikidata": "Q141016941",
+  "platforms": ["ios", "android"],
+  "category": "Games",
+  "genre": ["Card", "Casino"],
+  "price": "free",
+  "realMoneyGambling": false,
+  "stores": {
+    "appStore": "https://apps.apple.com/app/simplejack-21-blackjack-game/id6758989812",
+    "googlePlay": "https://play.google.com/store/apps/details?id=app.simplejack.blackjack.card.game"
+  },
+  "website": "https://firstpoint.com.tr/apps/sj",
+  "privacyPolicy": "https://firstpoint.com.tr/sj/ios/privacy-policy.html",
+  "terms": "https://firstpoint.com.tr/sj/ios/terms-and-conditions.html",
+  "accessibility": "https://firstpoint.com.tr/apps/sj/accessibility",
+  "support": "https://form.jotform.com/261403182621043",
+  "updated": "2026-09-07"
+}
