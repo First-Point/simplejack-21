@@ -21,7 +21,6 @@ SimpleJack 21 is a free blackjack card game for iOS and Android developed by Fir
 | Privacy policy | https://firstpoint.com.tr/sj/ios/privacy-policy.html |
 | Terms | https://firstpoint.com.tr/sj/ios/terms-and-conditions.html |
 | Accessibility | https://firstpoint.com.tr/apps/sj/accessibility |
-| Wikidata | https://www.wikidata.org/wiki/Q141016941 |
 
 ## What it does
 
@@ -75,7 +74,6 @@ More questions are answered at https://firstpoint.com.tr/apps/sj.
 - Company: https://firstpoint.com.tr and https://github.com/First-Point
 - App Store: https://apps.apple.com/app/simplejack-21-blackjack-game/id6758989812
 - Google Play: https://play.google.com/store/apps/details?id=app.simplejack.blackjack.card.game
-- Wikidata: https://www.wikidata.org/wiki/Q141016941
 - Machine-readable facts: [app.json](app.json)
 
 ## License

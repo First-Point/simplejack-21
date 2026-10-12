@@ -9,10 +9,8 @@
     "name": "First Point",
     "legalName": "First Point Yazılım Limited Şirketi",
     "url": "https://firstpoint.com.tr",
-    "wikidata": "Q141016074",
     "github": "https://github.com/First-Point"
   },
-  "wikidata": "Q141016941",
   "platforms": ["ios", "android"],
   "category": "Games",
   "genre": ["Card", "Casino"],
